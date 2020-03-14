@@ -1,0 +1,5 @@
+.shadow-cljs
+markdownify.notes*
+node_modules/
+public/compiledjs/
+*.swp
